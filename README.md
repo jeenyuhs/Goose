@@ -1,6 +1,6 @@
 # Goose 📞
 
-A Discord bot reference implementation that creates anonymous "telephone" connections between users.
+A Discord bot reference implementation that creates anonymous "telephone" connections between users across different servers.
 
 ![billede](https://github.com/user-attachments/assets/660ec8d8-c661-41d1-b1f8-864dcc95ccd8)
 
