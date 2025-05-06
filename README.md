@@ -2,6 +2,9 @@
 
 A Discord bot reference implementation that creates anonymous "telephone" connections between users.
 
+![billede](https://github.com/user-attachments/assets/660ec8d8-c661-41d1-b1f8-864dcc95ccd8)
+
+
 ## Overview
 
 Goose is a fun and simple Discord bot framework that simulates phone calls between users in a server. This code is designed as a reference implementation for developers to integrate into their own Discord bots, not as a hosted service. Therefore, there is no invite link.
